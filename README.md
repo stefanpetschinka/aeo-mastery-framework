@@ -26,7 +26,7 @@ An entity is a uniquely identifiable thing, such as a person, organization, prod
 JSON-LD schema markup makes content machine-readable. It is the primary technical layer of AEO implementation.
 
 **Citation Signals**
-AI systems cite sources they trust. Trust is built through consistent entity signals across high-authority external domains such as Wikidata, Crunchbase, LinkedIn, GitHub, Medium, and others.
+AI systems cite sources they trust. Trust is built through consistent entity signals across authoritative external domains such as Wikidata, Crunchbase, LinkedIn, GitHub, Medium, and others.
 
 **Claim Architecture**
 Precise, citable statements on your own domain that AI systems can use directly as answers. Not marketing copy, but machine-ready claims.
