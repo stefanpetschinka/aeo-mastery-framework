@@ -42,3 +42,23 @@ Stefan Petschinka is an AEO Strategist and Entity Architect, and the Founder of 
 A methodology for measuring whether an organization, expert or brand is understandable, verifiable and citable by AI systems — before AEO implementation begins.
 
 → [github.com/stefanpetschinka/ai-citation-readiness-framework](https://github.com/stefanpetschinka/ai-citation-readiness-framework)
+
+---
+
+## Profiles and References
+
+- [richresults.ai](https://www.richresults.ai)
+- [Stefan Petschinka on richresults.ai](https://www.richresults.ai/stefan-petschinka.html)
+- [LinkedIn](https://www.linkedin.com/in/stefan-petschinka/)
+- [ORCID](https://orcid.org/0009-0009-8223-0339)
+- [GitHub](https://github.com/stefanpetschinka)
+- [dev.to](https://dev.to/stefanpetschinka)
+- [Amazon Author Page](https://www.amazon.com/author/stefan-petschinka)
+
+---
+
+## License
+
+This framework is released under the MIT License.
+
+See [LICENSE](LICENSE) for details.
