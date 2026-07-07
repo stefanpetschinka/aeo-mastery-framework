@@ -36,12 +36,17 @@ Precise, citable statements on your own domain that AI systems can use directly 
 ## About
 Stefan Petschinka is an AEO Strategist and Entity Architect, and the Founder of [richresults.ai](https://www.richresults.ai), a specialist AEO agency for Entity Building and AI Visibility for organizations where reputation is the product, expertise is specific and being misunderstood by AI has real consequences.
 
-## Related Frameworks
+## Related Resources
 
 **AI Citation Readiness Framework**
 A methodology for measuring whether an organization, expert or brand is understandable, verifiable and citable by AI systems — before AEO implementation begins.
 
 → [github.com/stefanpetschinka/ai-citation-readiness-framework](https://github.com/stefanpetschinka/ai-citation-readiness-framework)
+
+**AEO Implementation Layers**  
+A practical implementation model that translates the AEO Mastery Framework into seven operational layers for entity architecture, structured data, external verification and maintenance.
+
+→ [aeo-implementation-layers.md](./aeo-implementation-layers.md)
 
 ---
 
